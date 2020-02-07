@@ -10,6 +10,7 @@
   "dependencies": {
     "ant-design-vue": "^1.4.10",
     "core-js": "^3.4.4",
+    "enquire.js": "^2.1.6",
     "nprogress": "^0.2.0",
     "vue": "^2.6.10",
     "vue-router": "^3.1.3",
